@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nidadinch&color=ff69b4" alt="nidadinch" /> </p>
 
 
-- 🔭 I’m currently working on **Deep Learning**
+- 🔭 I’m currently working on **Machine Learning**
 - 🌱 I’m currently learning **Tensorflow**
 - 👯 I’m looking for an **internship**
 - ⚡ Fun fact: I love **snowboarding & caving**
