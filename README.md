@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on **Machine Learning**
 - 🌱 I’m currently learning **Tensorflow**
-- 👯 I’m looking for an **internship**
 - ⚡ Fun fact: I love **snowboarding & caving**
 
 ### Connect with me:
