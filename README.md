@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on **Back-End Development**
-- 🌱 I’m currently learning **Java Spring Boot**
+- 🌱 I’m currently learning **Go & Vue.js**
 - ⚡ Fun fact: I love **snowboarding & caving**
 
 ### Connect with me:
