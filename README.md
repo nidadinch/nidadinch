@@ -11,9 +11,10 @@
 ### Connect with me:
 <p align="left"> 
 <a href="https://www.linkedin.com/in/nidadinc/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="13198517" width="26" /></a>
+ <a href="https://stackoverflow.com/users/13675578/nidadinch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18108931" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nidadinc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nidadinch" height="30" width="40" /></a>
+<a href="https://medium.com/@nidadinc" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/medium.svg" alt="nidadinch" height="30" width="40" /></a>
 </p>
-
-[![Nida's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidadinch)](https://github.com/nidadinch/github-readme-stats)
 
 ### Languages and Tools:
 
@@ -32,3 +33,4 @@
 <img align="left" alt="nodejs" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="postman" width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" /> 
 <img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> </a> 
+
