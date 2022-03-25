@@ -13,6 +13,7 @@
 <a href="https://www.linkedin.com/in/nidadinc/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="13198517" width="26" /></a>
 </p>
 
+[![Nida's GitHub stats](https://github-readme-stats.vercel.app/api?username=nidadinch)](https://github.com/nidadinch/github-readme-stats)
 
 ### Languages and Tools:
 
