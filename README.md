@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nidadinch&color=ff69b4" alt="nidadinch" /> </p>
 
 
-- 🔭 I’m currently working on **Back-End Development**
+- 🔭 I’m currently working on **Full-Stack Development**
 - 🌱 I’m currently learning **Go & Vue.js**
 - ⚡ Fun fact: I love **snowboarding & caving**
 
