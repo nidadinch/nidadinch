@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="go" width="30px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"/>
+<img align="left" alt="go" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
 <img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <img align="left" alt="javascript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> 
 <img align="left" alt="MongoDB" width="30px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
