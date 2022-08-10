@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nida</h1>
-<h3 align="center">I'm a Student, Learner and Developer!</h3>
+<h3 align="center">I'm a Life Long Learner and Developer!</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nidadinch&color=ff69b4" alt="nidadinch" /> </p>
 
 
